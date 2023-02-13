@@ -23,7 +23,7 @@
 </template>
 <script >
 import axios from 'axios'
-const API_KEY= '17ffcbd770189d6b2c3d4b30a7cbc9b2'; 
+const API_KEY= 'insert your api key here. you can visit https://openweathermap.org/'; 
 
 export default {
   name: "App",
